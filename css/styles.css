@@ -9,7 +9,7 @@
 body {
   font-family: "Work Sans", sans-serif;
   background-color: hsl(275, 100%, 97%);
-  background-image: url('/assets/images/background-pattern-desktop.svg');
+  background-image: url('https://raw.githubusercontent.com/dejuliansr/front-end-mentor-faq-accordion/05828680f058a3a4d8ea514c952867533831dd96/assets/images/background-pattern-desktop.svg');
   background-size: contain; /* Atur agar gambar menyesuaikan dengan ukuran */
   background-repeat: no-repeat;
   background-position: top center;
